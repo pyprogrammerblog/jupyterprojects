@@ -1,5 +1,6 @@
 import copy
 
+
 class Prototype:
     """ A prototype Case Class """
 

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd50dda7-670b-48cc-b342-7c0cbcb6e49d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Prototype and Prototype Factory.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Prototype and Prototype Factory.ipynb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/data/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="39" selection-start-line="39" selection-end-line="42" selection-end-column="40" />
+            <state relative-caret-position="285">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -36,8 +35,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2067" />
-    <option name="y" value="247" />
+    <option name="x" value="2163" />
+    <option name="y" value="154" />
     <option name="width" value="1401" />
     <option name="height" value="810" />
   </component>
@@ -47,17 +46,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="jupyterprojects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jupyterprojects" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -86,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579787583089</updated>
-      <workItem from="1579787584258" duration="2269000" />
+      <workItem from="1579787584258" duration="2975000" />
     </task>
     <task id="LOCAL-00001" summary="update second part">
       <created>1579789655682</created>
@@ -95,15 +84,28 @@
       <option name="project" value="LOCAL" />
       <updated>1579789655682</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update second part">
+      <created>1579792936460</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579792936460</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update second part">
+      <created>1579792959365</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579792959365</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2269000" />
+    <option name="totallyTimeSpent" value="2975000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2067" y="247" width="1401" height="810" extended-state="0" />
-    <editor active="true" />
+    <frame x="2080" y="132" width="1401" height="810" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34538746" />
@@ -138,8 +140,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="39" selection-start-line="39" selection-end-line="42" selection-end-column="40" />
+        <state relative-caret-position="285">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
         </state>
       </provider>
     </entry>
