@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd50dda7-670b-48cc-b342-7c0cbcb6e49d" name="Default Changelist" comment="prot factory">
+    <list default="true" id="dd50dda7-670b-48cc-b342-7c0cbcb6e49d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Factory Method implementation in Python-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Factory Method implementation in Python-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Prototype and Prototype Factory-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Prototype and Prototype Factory-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Factory Method implementation in Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Factory Method implementation in Python.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Prototype and Prototype Factory.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Prototype and Prototype Factory.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Consume an API with Python-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Consume an API with Python-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Recommendation systems. Part One.-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Recommendation systems. Part One.-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Consume an API with Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Consume an API with Python.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Recommendation systems. Part One..ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Recommendation systems. Part One..ipynb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/data/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579787583089</updated>
       <workItem from="1579787584258" duration="3147000" />
-      <workItem from="1580476470644" duration="1209000" />
+      <workItem from="1580476470644" duration="2450000" />
     </task>
     <task id="LOCAL-00001" summary="update second part">
       <created>1579789655682</created>
@@ -118,16 +118,30 @@
       <option name="project" value="LOCAL" />
       <updated>1579793894881</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="prot factory">
+      <created>1580479188688</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580479188688</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1580483823335</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580483823335</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4356000" />
+    <option name="totallyTimeSpent" value="5597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2534685" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2534685" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -141,7 +155,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3084995" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3084995" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -156,7 +170,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update second part" />
     <MESSAGE value="prot factory" />
-    <option name="LAST_COMMIT_MESSAGE" value="prot factory" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
