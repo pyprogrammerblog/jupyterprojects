@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd50dda7-670b-48cc-b342-7c0cbcb6e49d" name="Default Changelist" comment="update">
+    <list default="true" id="dd50dda7-670b-48cc-b342-7c0cbcb6e49d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Abstract Factory implementation in Python-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Abstract Factory implementation in Python-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Abstract Factory implementation in Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Abstract Factory implementation in Python.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Deep Learning model in Keras. Part 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Deep Learning model in Keras. Part 1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Deep Learning model in Keras. Part 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Deep Learning model in Keras. Part 2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Factory Method implementation in Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Factory Method implementation in Python.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Prototype and Prototype Factory.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Prototype and Prototype Factory.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Recommendation systems. Part Two.-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Recommendation systems. Part Two.-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Consume an API with Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Consume an API with Python.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/Recommendation systems. Part One..ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Recommendation systems. Part One..ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/Recommendation systems. Part Two..ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Recommendation systems. Part Two..ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/product.csv" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/product.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/product_features.csv" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/product_features.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/product_list.csv" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/product_list.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/product_ratings.csv" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/product_ratings.csv" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/data/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,6 +18,17 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-520495847">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf />
@@ -40,8 +51,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="168" />
-    <option name="y" value="123" />
+    <option name="x" value="242" />
+    <option name="y" value="161" />
     <option name="width" value="1115" />
     <option name="height" value="642" />
   </component>
@@ -59,11 +70,6 @@
               <item name="jupyterprojects" type="b2602c69:ProjectViewProjectNode" />
               <item name="jupyterprojects" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="jupyterprojects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jupyterprojects" type="462c0819:PsiDirectoryNode" />
-              <item name="notebooks" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -74,138 +80,6 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Abstract Factory implementation in Python-checkpoint.ipynb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Consume an API with Python-checkpoint.ipynb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Factory Method implementation in Python-checkpoint.ipynb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Prototype and Prototype Factory-checkpoint.ipynb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Recommendation systems. Part One.-checkpoint.ipynb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/Abstract Factory implementation in Python.ipynb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/Consume an API with Python.ipynb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/Factory Method implementation in Python.ipynb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/Prototype and Prototype Factory.ipynb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/Recommendation systems. Part One..ipynb</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Deep Learning model in Keras. Part 1-checkpoint.ipynb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Deep Learning model in Keras. Part 2-checkpoint.ipynb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Recommendation systems. Part Three.-checkpoint.ipynb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/Deep Learning model in Keras. Part 1.ipynb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/Deep Learning model in Keras. Part 2.ipynb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/new_house.csv</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/new_house_scaled.csv</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/scaler.pkl</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/scalers.csv</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/trained_model.h5</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/training_df.csv</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/notebooks/training_df_scaled.csv</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -295,16 +169,30 @@
       <option name="project" value="LOCAL" />
       <updated>1580486150216</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update">
+      <created>1580587692621</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580587692621</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update">
+      <created>1580587739029</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1580587739029</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="6854000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="168" y="123" width="1115" height="642" extended-state="0" />
+    <frame x="242" y="161" width="1115" height="642" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32991612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33550793" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -316,9 +204,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.48545456" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.48545456" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -329,6 +217,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update second part" />
