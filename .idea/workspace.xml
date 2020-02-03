@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd50dda7-670b-48cc-b342-7c0cbcb6e49d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/notebooks/Curso de Git Basico. Max 20 minutos. Publico o lo vendo en Udemy?" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/Recommendation systems. Part Three..ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Recommendation systems. Part Two.-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Recommendation systems. Part Two.-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/Consume an API with Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Consume an API with Python.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Recommendation systems. Part One..ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Recommendation systems. Part One..ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Recommendation systems. Part Two..ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Recommendation systems. Part Two..ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/product.csv" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/product.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/product_features.csv" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/product_features.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/product_list.csv" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/product_list.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/product_ratings.csv" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/product_ratings.csv" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/data/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,19 +14,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-520495847">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="REBASE" />
@@ -44,17 +28,11 @@
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="242" />
-    <option name="y" value="161" />
-    <option name="width" value="1115" />
-    <option name="height" value="642" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
+    <option name="y" value="127" />
+    <option name="width" value="1910" />
+    <option name="height" value="810" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -62,7 +40,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,10 +47,16 @@
               <item name="jupyterprojects" type="b2602c69:ProjectViewProjectNode" />
               <item name="jupyterprojects" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jupyterprojects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jupyterprojects" type="462c0819:PsiDirectoryNode" />
+              <item name="notebooks" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -105,6 +88,7 @@
       <updated>1579787583089</updated>
       <workItem from="1579787584258" duration="3147000" />
       <workItem from="1580476470644" duration="3707000" />
+      <workItem from="1580743675573" duration="1211000" />
     </task>
     <task id="LOCAL-00001" summary="update second part">
       <created>1579789655682</created>
@@ -187,12 +171,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6854000" />
+    <option name="totallyTimeSpent" value="8668000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="242" y="161" width="1115" height="642" extended-state="1" />
+    <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33550793" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2588047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -206,7 +190,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.48545456" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3084995" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -218,9 +202,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update second part" />
     <MESSAGE value="prot factory" />
@@ -228,15 +209,28 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="229">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/notebooks/Curso de Git Basico. Max 20 minutos. Publico o lo vendo en Udemy?">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/Consume an API with Python.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/Recommendation systems. Part Three..ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
 </project>
