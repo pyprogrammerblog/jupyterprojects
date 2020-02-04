@@ -1,0 +1,13 @@
+Create, Delete and Fusionate Branches
+
+1. Create
+
+1. git branch                  # to know where you are
+2. git branch new_branch
+3. git checkout new_branch
+or
+2 and 3. git checkout -b new_branch
+
+
+2. Delete
+git branch -d new_branch

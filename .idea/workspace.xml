@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd50dda7-670b-48cc-b342-7c0cbcb6e49d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/notebooks/git/6. Taging and moving to commits" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Consume an API with Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Consume an API with Python.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Deep Learning model in Keras. Part 3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Deep Learning model in Keras. Part 3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Recommendation systems. Part One..ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Recommendation systems. Part One..ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Recommendation systems. Part Two..ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Recommendation systems. Part Two..ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/git/5. Working with Branchs. 5 min" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/git/5. Working with Branchs. 5 min" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/data/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,13 +15,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/notebooks/Curso de Git Basico. Max 20 minutos. Publico o lo vendo en Udemy?">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notebooks/git/5. Working with Branchs. 5 min">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state relative-caret-position="180">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/notebooks/git/The remote repository">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notebooks/git/4. Adding, Deleting and Moving from Git. 8 min">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notebooks/Abstract Factory implementation in Python.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
     </leaf>
@@ -36,6 +53,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/notebooks/git/5. Working with Branchs. 5 min" />
       </list>
     </option>
   </component>
@@ -64,6 +82,12 @@
               <item name="jupyterprojects" type="462c0819:PsiDirectoryNode" />
               <item name="notebooks" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jupyterprojects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jupyterprojects" type="462c0819:PsiDirectoryNode" />
+              <item name="notebooks" type="462c0819:PsiDirectoryNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -74,6 +98,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/notebooks/git" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -100,7 +130,7 @@
       <workItem from="1579787584258" duration="3147000" />
       <workItem from="1580476470644" duration="3707000" />
       <workItem from="1580743675573" duration="1516000" />
-      <workItem from="1580834185779" duration="855000" />
+      <workItem from="1580834185779" duration="1403000" />
     </task>
     <task id="LOCAL-00001" summary="update second part">
       <created>1579789655682</created>
@@ -186,14 +216,29 @@
       <option name="project" value="LOCAL" />
       <updated>1580747669597</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update">
+      <created>1580836898476</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1580836898476</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update">
+      <created>1580836938242</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1580836938242</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9828000" />
+    <option name="totallyTimeSpent" value="10376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2614728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -244,12 +289,35 @@
     <entry file="file://$PROJECT_DIR$/notebooks/Consume an API with Python.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebooks/Curso de Git Basico. Max 20 minutos. Publico o lo vendo en Udemy?">
+    <entry file="file://$PROJECT_DIR$/notebooks/git/Curso de Git Basico. Max 20 minutos. Publico o lo vendo en Udemy?">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/Abstract Factory implementation in Python.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/git/4. Adding, Deleting and Moving from Git. 8 min">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/git/6. Taging and moving to commits">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/git/5. Working with Branchs. 5 min">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/git/The remote repository">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
