@@ -1,0 +1,15 @@
+Dos opciones:
+
+1. Un proyecto nuevo
+2. Colaborar en un proyecto ya comenzado.
+
+Opcion 1. Proyecto nuevo.
+
+Paso 1: mkdir myfolder
+Paso 2: cd myproject  <= Este es el directorio de trabajo
+Paso 3: git init
+
+Opcion 2. Colaborar en un proyecto ya comenzado.
+
+Paso 1: git clone http://...
+Paso 2: cd myproject  <= Este es el directorio de trabajo

@@ -1,0 +1,20 @@
+1. Adding
+
+touch myfile
+git add myfile
+git commit or git commit -a -m "Adding a file"
+
+
+2. Deleting
+
+rm myfile
+git rm myfile
+git commit or git commit -a -m "Removing a file"
+
+
+2. Moving = Adding + Deleting
+
+mv myfile newfolder/myfile
+git rm myfile
+git add newfolder/myfile
+git commit or git commit -a -m "Moving a file"

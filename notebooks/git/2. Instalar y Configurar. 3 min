@@ -1,0 +1,8 @@
+1. Instalar en Ubuntu el control de versiones Git
+sudo apt-get install git
+
+2. Configurar Git
+git config --global user.name jose
+git config --global user.email josevazjim88@gmail.com
+
+Instalado y configurado!
